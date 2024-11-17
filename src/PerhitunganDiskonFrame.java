@@ -388,7 +388,7 @@ public class PerhitunganDiskonFrame extends javax.swing.JFrame {
     private void hitungButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_hitungButtonActionPerformed
        hitungButton.addActionListener(new java.awt.event.ActionListener() {
     public void actionPerformed(java.awt.event.ActionEvent evt) {
-        hitungDiskon(); // Panggil metode hitung diskon
+        hitungDiskon(); // Panggil metode untuk menghitung diskon
     }
 });
  
