@@ -138,13 +138,11 @@
                                           <Component id="jLabel9" alignment="0" min="-2" pref="105" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace type="separate" max="-2" attributes="0"/>
-                                      <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="sliderDiskon" min="-2" max="-2" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                                              <Component id="comboDiskon" max="32767" attributes="0"/>
-                                              <Component id="hargaAsliTextField" max="32767" attributes="0"/>
-                                              <Component id="kodePromoTextField" max="32767" attributes="0"/>
-                                          </Group>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Component id="hargaAsliTextField" max="32767" attributes="0"/>
+                                          <Component id="kodePromoTextField" max="32767" attributes="0"/>
+                                          <Component id="sliderDiskon" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Component id="comboDiskon" alignment="0" max="32767" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
@@ -158,7 +156,7 @@
                               <Component id="keluarButton" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
-                      <EmptySpace max="32767" attributes="0"/>
+                      <EmptySpace pref="218" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
